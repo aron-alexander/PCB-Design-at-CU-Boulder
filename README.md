@@ -8,5 +8,7 @@ This board is a simple 555 timer circuit operating in astable mode.  The main go
 This board incorporates two versions of the same circuit: one designed using good practices, and one designed with bad practices.  This allows for clear demonstration of why certain design choices should or should not be made on any PC board, all in one board.
 
 ## Board 3: Golden Arduino
+This board is a fully functional microcontroller based on the Arduino Uno R3.  The board incorporates design practices that improve performance compared to commercial Arduino boards and clones.
 
 ## Board 4: 4-Layer Instrument Droid
+This board is a 4-layer shield designed to plug directly into any Arduino Uno R3 board.  Its main function is to characterize a wide range of voltage sources, determining their Thevenin voltages and resistances.  It also incorporates smart LEDs and a buzzer for some fun interactivity.
